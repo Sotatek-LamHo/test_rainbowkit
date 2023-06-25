@@ -1,0 +1,4 @@
+{
+  "prettier.prettierPath": "./node_modules/prettier",
+  "cSpell.words": ["arbitrum", "rainbowkit", "sepolia", "Siwe", "Wagmi"]
+}
